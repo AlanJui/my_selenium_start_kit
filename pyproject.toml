@@ -16,6 +16,7 @@ python-dotenv = "^0.21.1"
 jupyter = "^1.0.0"
 pylint = "^2.15.10"
 selenium = "^4.8.0"
+mypy = "^0.991"
 
 [build-system]
 requires = ["poetry-core"]
